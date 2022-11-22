@@ -22,7 +22,7 @@ dependencies:
 #  webview_flutter_android: ^2.8.0
   webview_flutter_android:
     git:
-      url: git@gitlab.yonghui.cn:operation-xm-qdjg/flutter-webview.git
+      url: git@gitlab.yonghui.cn:operation-xm-qdjg/webview-android.git
       ref: v2.10.4.1
 
 
