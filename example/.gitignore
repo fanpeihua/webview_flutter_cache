@@ -13,6 +13,8 @@
 *.ipr
 *.iws
 .idea/
+
+
 pubspec.lock
 PodfileLocal.yaml
 
