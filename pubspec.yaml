@@ -20,9 +20,9 @@ dependencies:
   flutter:
     sdk: flutter
 #  webview_flutter_android: ^2.8.0
-  webview_flutter_android:
+  webview_flutter_android_cache:
     git:
-      url: git@gitlab.yonghui.cn:operation-xm-qdjg/webview-android.git
+      url: git@github.com:fanpeihua/webview_flutter_android_cache.git
       ref: v2.8.14.7
 
 
